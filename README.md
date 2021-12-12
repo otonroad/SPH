@@ -21,7 +21,7 @@
 | Term            | Activity 1            | Activity 2 | Activity 3 |
 | --------------- | --------------------- | ---------- | ---------- |
 | (Term 1)        | N/A                   | N/A        | N/A        |
-| [Term2](Term 2) | Website -> Dictionary | Powerpoint | Flashcards |
+| [Term 2](Term 2) | Website -> Dictionary | Powerpoint | Flashcards |
 
 ## Branches
 

@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/benawad/dogehouse/blob/staging/CONTRIBUTING.md">Explanation</a>
+  <a href="https://github.com/otonroad/SPH/blob/staging/README.md#Explanation">Explanation</a>
   <span> · </span>
   <a href="https://github.com/otonroad">Me</a>
   <span> · </span>
@@ -18,13 +18,14 @@
 
 ## Table of Contents
 
-| Term   | Activity 1            | Activity 2 | Activity 3 |
-|--------|-----------------------|------------|------------|
-| Term 1 | N/A                   | N/A        | N/A        |
-| Term 2 | Website -> Dictionary | Powerpoint | Flashcards |
+| Term              | Activity 1            | Activity 2 | Activity 3 |
+|-------------------|-----------------------|------------|------------|
+| (Term 1)          | N/A                   | N/A        | N/A        |
+| [Term2](Term 2)   | Website -> Dictionary | Powerpoint | Flashcards |
 
 ## Branches
 staging -> main
+
 prod (to be) -> projects that require netlify, or github to be used
 
 ## Explanation

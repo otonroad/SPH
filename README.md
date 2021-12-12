@@ -18,15 +18,17 @@
 
 ## Table of Contents
 
-| Term              | Activity 1            | Activity 2 | Activity 3 |
-|-------------------|-----------------------|------------|------------|
-| (Term 1)          | N/A                   | N/A        | N/A        |
-| [Term2](Term 2)   | Website -> Dictionary | Powerpoint | Flashcards |
+| Term            | Activity 1            | Activity 2 | Activity 3 |
+| --------------- | --------------------- | ---------- | ---------- |
+| (Term 1)        | N/A                   | N/A        | N/A        |
+| [Term2](Term 2) | Website -> Dictionary | Powerpoint | Flashcards |
 
 ## Branches
-staging -> main
+
+master -> main
 
 prod (to be) -> projects that require netlify, or github to be used
 
 ## Explanation
+
 I needed a place to store homework. So, I have made a place to store it

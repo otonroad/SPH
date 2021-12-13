@@ -3,7 +3,7 @@ Private Sub Button1_Click()
 Dim VerbEnding As Integer
 Dim Conjugation As Integer
 Dim Answer As String
-Dim Random = New String() {'-o', '-a', '-amos', '-áis', '-an', '-es', '-e', '-emos', '-éis', '-en', '-imos', '-ís', '-en'
+Dim Random = New String() {'-o', '-a', '-amos', '-áis', '-an', '-es', '-e', '-emos', '-éis', '-en', '-imos', '-ís', '-en'}
 
 Dim IAr As String
 IAr = "-o"
